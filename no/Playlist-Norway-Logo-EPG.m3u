@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="Nrk1" tvg-logo="" tvg-shift="0" group-title="Norway", Nrk1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u8
+#EXTINF:-1 tvg-id="tv2.no" tvg-name="Tv 2" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 2
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u9
+#EXTINF:-1 tvg-id="Viasat4.no" tvg-name="Viasat 4" tvg-logo="" tvg-shift="0" group-title="Norway", Viasat 4
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u10
+#EXTINF:-1 tvg-id="tv3" tvg-name="Tv3" tvg-logo="" tvg-shift="0" group-title="Norway", Tv3
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u11
+#EXTINF:-1 tvg-id="NRKTegnsprak.no" tvg-name="Nrk Tegnspr K" tvg-logo="" tvg-shift="0" group-title="Norway", Nrk Tegnspr K
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u12
+#EXTINF:-1 tvg-id="NRK2.no" tvg-name="Nrk2" tvg-logo="" tvg-shift="0" group-title="Norway", Nrk2
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u13
+#EXTINF:-1 tvg-id="NRK3.no" tvg-name="Nrk3" tvg-logo="" tvg-shift="0" group-title="Norway", Nrk3
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u14
+#EXTINF:-1 tvg-id="TV2Livsstil.no" tvg-name="Tv 2 Livsstil" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 2 Livsstil
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u15
+#EXTINF:-1 tvg-id="TV2Nyhetskanalen.no" tvg-name="Tv 2 Nyhetskanalen" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 2 Nyhetskanalen
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u16
+#EXTINF:-1 tvg-id="TV2Zebra.no" tvg-name="Tv 2 Zebra" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 2 Zebra
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u17
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="Tv6" tvg-logo="" tvg-shift="0" group-title="Norway", Tv6
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u18
+#EXTINF:-1 tvg-id="tvnorge.no" tvg-name="Tvnorge" tvg-logo="" tvg-shift="0" group-title="Norway", Tvnorge
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u19
+#EXTINF:-1 tvg-id="FEM.no" tvg-name="Fem" tvg-logo="" tvg-shift="0" group-title="Norway", Fem
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u20
+#EXTINF:-1 tvg-id="Matkanalen.no" tvg-name="Matkanalen" tvg-logo="" tvg-shift="0" group-title="Norway", Matkanalen
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u21
+#EXTINF:-1 tvg-id="Max.no" tvg-name="Max" tvg-logo="" tvg-shift="0" group-title="Norway", Max
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u22
+#EXTINF:-1 tvg-id="SVT1.se" tvg-name="Svt1" tvg-logo="" tvg-shift="0" group-title="Norway", Svt1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u23
+#EXTINF:-1 tvg-id="SVT2.se" tvg-name="Svt2" tvg-logo="" tvg-shift="0" group-title="Norway", Svt2
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u24
+#EXTINF:-1 tvg-id="tv3" tvg-name="Tv 3 Danmark" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 3 Danmark
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u25
+#EXTINF:-1 tvg-id="TLCsverige.se" tvg-name="Tv 3 Sverige" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 3 Sverige
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u26
+#EXTINF:-1 tvg-id="TLCsverige.se" tvg-name="Tv 6 Sverige" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 6 Sverige
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u27
+#EXTINF:-1 tvg-id="" tvg-name="Vgtv" tvg-logo="" tvg-shift="0" group-title="Norway", Vgtv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u28
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="Vox" tvg-logo="" tvg-shift="0" group-title="Norway", Vox
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u29
+#EXTINF:-1 tvg-id="" tvg-name="Barnkanalen" tvg-logo="" tvg-shift="0" group-title="Norway", Barnkanalen
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u30
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="Bbc One" tvg-logo="" tvg-shift="0" group-title="Norway", Bbc One
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u31
+#EXTINF:-1 tvg-id="bbc" tvg-name="Bbc Two" tvg-logo="" tvg-shift="0" group-title="Norway", Bbc Two
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u32
+#EXTINF:-1 tvg-id="DR1.dk" tvg-name="Dr1" tvg-logo="" tvg-shift="0" group-title="Norway", Dr1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u33
+#EXTINF:-1 tvg-id="DR2.dk" tvg-name="Dr2" tvg-logo="" tvg-shift="0" group-title="Norway", Dr2
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u34
+#EXTINF:-1 tvg-id="Kunskapskanalen.se" tvg-name="Kunskapskanalen" tvg-logo="" tvg-shift="0" group-title="Norway", Kunskapskanalen
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u35
+#EXTINF:-1 tvg-id="TLCDanmarkHD.dk" tvg-name="Tv 2 Danmark" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 2 Danmark
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u36
+#EXTINF:-1 tvg-id="YLE1.fi" tvg-name="Yle Tv1" tvg-logo="" tvg-shift="0" group-title="Norway", Yle Tv1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u37
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="Ard" tvg-logo="" tvg-shift="0" group-title="Norway", Ard
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u38
+#EXTINF:-1 tvg-id="bbc" tvg-name="Bbc Three Cbbc" tvg-logo="" tvg-shift="0" group-title="Norway", Bbc Three Cbbc
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u39
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="Prosieben" tvg-logo="" tvg-shift="0" group-title="Norway", Prosieben
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u40
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="" tvg-shift="0" group-title="Norway", Rai 1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u41
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="" tvg-shift="0" group-title="Norway", Rai 2
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u42
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="Rtl" tvg-logo="" tvg-shift="0" group-title="Norway", Rtl
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u43
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1" tvg-logo="" tvg-shift="0" group-title="Norway", Sat 1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u44
+#EXTINF:-1 tvg-id="tv5-Monde" tvg-name="Tv5 Monde" tvg-logo="" tvg-shift="0" group-title="Norway", Tv5 Monde
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u45
+#EXTINF:-1 tvg-id="lrt-lituanica" tvg-name="Lrt Lituanica" tvg-logo="" tvg-shift="0" group-title="Norway", Lrt Lituanica
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u46
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="" tvg-shift="0" group-title="Norway", Rai 3
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u47
+#EXTINF:-1 tvg-id="TVE.sp" tvg-name="Tve" tvg-logo="" tvg-shift="0" group-title="Norway", Tve
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u48
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Tvp Polonia" tvg-logo="" tvg-shift="0" group-title="Norway", Tvp Polonia
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u49
+#EXTINF:-1 tvg-id="ViasatFilmFamily.fi" tvg-name="Viasat Film Family" tvg-logo="" tvg-shift="0" group-title="Norway", Viasat Film Family
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u50
+#EXTINF:-1 tvg-id="ViasatFilmPremiere.fi" tvg-name="Viasat Film Premiere" tvg-logo="" tvg-shift="0" group-title="Norway", Viasat Film Premiere
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u51
+#EXTINF:-1 tvg-id="Silver.fi" tvg-name="Visiemltv Lv" tvg-logo="" tvg-shift="0" group-title="Norway", Visiemltv Lv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u52
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="" tvg-shift="0" group-title="Norway", Eurosport 1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u53
+#EXTINF:-1 tvg-id="EurosportNorge.no" tvg-name="Eurosport Norge" tvg-logo="" tvg-shift="0" group-title="Norway", Eurosport Norge
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u54
+#EXTINF:-1 tvg-id="TV2Sport1.no" tvg-name="Tv 2 Sport 1" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 2 Sport 1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u55
+#EXTINF:-1 tvg-id="TV2Sport2.no" tvg-name="Tv 2 Sport 2" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 2 Sport 2
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u56
+#EXTINF:-1 tvg-id="TV2SportPremium.no" tvg-name="Tv 2 Sport Premium" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 2 Sport Premium
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u57
+#EXTINF:-1 tvg-id="TV2SportPremium2.no" tvg-name="Tv 2 Sport Premium 2" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 2 Sport Premium 2
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u58
+#EXTINF:-1 tvg-id="ViasatFilmAction.dk" tvg-name="Viasat Film Action" tvg-logo="" tvg-shift="0" group-title="Norway", Viasat Film Action
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u59
+#EXTINF:-1 tvg-id="ViasatFilmHits.dk" tvg-name="Viasat Film Hits" tvg-logo="" tvg-shift="0" group-title="Norway", Viasat Film Hits
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u60
+#EXTINF:-1 tvg-id="ViasatSeries.dk" tvg-name="Viasat Series" tvg-logo="" tvg-shift="0" group-title="Norway", Viasat Series
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u61
+#EXTINF:-1 tvg-id="ClubMTV.eu" tvg-name="Club Mtv" tvg-logo="" tvg-shift="0" group-title="Norway", Club Mtv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u62
+#EXTINF:-1 tvg-id="MTV80s.eu" tvg-name="Mtv 80s" tvg-logo="" tvg-shift="0" group-title="Norway", Mtv 80s
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u63
+#EXTINF:-1 tvg-id="MTV90s.eu" tvg-name="Mtv 90s" tvg-logo="" tvg-shift="0" group-title="Norway", Mtv 90s
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u64
+#EXTINF:-1 tvg-id="mtv-Hits" tvg-name="Mtv Hits" tvg-logo="" tvg-shift="0" group-title="Norway", Mtv Hits
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u65
+#EXTINF:-1 tvg-id="mtv-live-hd" tvg-name="Mtv Live Hd" tvg-logo="" tvg-shift="0" group-title="Norway", Mtv Live Hd
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u66
+#EXTINF:-1 tvg-id="TLCsverige.se" tvg-name="Mtv Sverige" tvg-logo="" tvg-shift="0" group-title="Norway", Mtv Sverige
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u67
+#EXTINF:-1 tvg-id="food-Network" tvg-name="Nfl Network" tvg-logo="" tvg-shift="0" group-title="Norway", Nfl Network
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u68
+#EXTINF:-1 tvg-id="vh1-european" tvg-name="Vh1 Europe" tvg-logo="" tvg-shift="0" group-title="Norway", Vh1 Europe
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u69
+#EXTINF:-1 tvg-id="Viasat-golf" tvg-name="Viasat Golf" tvg-logo="" tvg-shift="0" group-title="Norway", Viasat Golf
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u70
+#EXTINF:-1 tvg-id="ViasatUltra.no" tvg-name="Viasat Ultra" tvg-logo="" tvg-shift="0" group-title="Norway", Viasat Ultra
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u71
+#EXTINF:-1 tvg-id="discovery-channel-ce" tvg-name="Discovery Channel" tvg-logo="" tvg-shift="0" group-title="Norway", Discovery Channel
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u72
+#EXTINF:-1 tvg-id="E!PopofCulture.nl" tvg-name="E Pop Of Culture" tvg-logo="" tvg-shift="0" group-title="Norway", E Pop Of Culture
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u73
+#EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="" tvg-shift="0" group-title="Norway", Mezzo
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u74
+#EXTINF:-1 tvg-id="mezzo-live-hd" tvg-name="Mezzo Live Hd" tvg-logo="" tvg-shift="0" group-title="Norway", Mezzo Live Hd
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u75
+#EXTINF:-1 tvg-id="tlc" tvg-name="Tlc" tvg-logo="" tvg-shift="0" group-title="Norway", Tlc
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u76
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="" tvg-shift="0" group-title="Norway", Travel Channel
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u77
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="" tvg-shift="0" group-title="Norway", Animal Planet
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u78
+#EXTINF:-1 tvg-id="BBCBrit.dk" tvg-name="Bbc Brit" tvg-logo="" tvg-shift="0" group-title="Norway", Bbc Brit
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u79
+#EXTINF:-1 tvg-id="BBCEarth.dk" tvg-name="Bbc Earth" tvg-logo="" tvg-shift="0" group-title="Norway", Bbc Earth
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u80
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="" tvg-shift="0" group-title="Norway", History
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u81
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="" tvg-shift="0" group-title="Norway", Nat Geo Wild
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u82
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic Channel" tvg-logo="" tvg-shift="0" group-title="Norway", National Geographic Channel
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u83
+#EXTINF:-1 tvg-id="NationalGeographicHD.cz" tvg-name="National Geographic Channel Hd" tvg-logo="" tvg-shift="0" group-title="Norway", National Geographic Channel Hd
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u84
+#EXTINF:-1 tvg-id="OutdoorChannel.eu" tvg-name="Outdoor Channel" tvg-logo="" tvg-shift="0" group-title="Norway", Outdoor Channel
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u85
+#EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viasat Explore" tvg-logo="" tvg-shift="0" group-title="Norway", Viasat Explore
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u86
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="" tvg-shift="0" group-title="Norway", Viasat History
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u87
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="" tvg-shift="0" group-title="Norway", Viasat Nature
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u88
+#EXTINF:-1 tvg-id="bbc-world-news" tvg-name="Bbc World News" tvg-logo="" tvg-shift="0" group-title="Norway", Bbc World News
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u89
+#EXTINF:-1 tvg-id="cnbc-europe" tvg-name="Cnbc Europe" tvg-logo="" tvg-shift="0" group-title="Norway", Cnbc Europe
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u90
+#EXTINF:-1 tvg-id="CNNInternational.svn" tvg-name="Cnn International" tvg-logo="" tvg-shift="0" group-title="Norway", Cnn International
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u91
+#EXTINF:-1 tvg-id="SVTb/svt24.se" tvg-name="Svt24" tvg-logo="" tvg-shift="0" group-title="Norway", Svt24
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u92
+#EXTINF:-1 tvg-id="TV2News.dk" tvg-name="Tv 2 News" tvg-logo="" tvg-shift="0" group-title="Norway", Tv 2 News
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u93
+#EXTINF:-1 tvg-id="al-jazeera-int" tvg-name="Al Jazeera" tvg-logo="" tvg-shift="0" group-title="Norway", Al Jazeera
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u94
+#EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang Tv" tvg-logo="" tvg-shift="0" group-title="Norway", Arirang Tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u95
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg Television" tvg-logo="" tvg-shift="0" group-title="Norway", Bloomberg Television
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u96
+#EXTINF:-1 tvg-id="dw-deutsch" tvg-name="Dw Deutsch" tvg-logo="" tvg-shift="0" group-title="Norway", Dw Deutsch
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u97
+#EXTINF:-1 tvg-id="english-club-tv" tvg-name="Dw English" tvg-logo="" tvg-shift="0" group-title="Norway", Dw English
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u98
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="" tvg-shift="0" group-title="Norway", Euronews
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u99
+#EXTINF:-1 tvg-id="france24-en" tvg-name="France 24" tvg-logo="" tvg-shift="0" group-title="Norway", France 24
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u100
+#EXTINF:-1 tvg-id="nhk-world" tvg-name="Nhk World Japan" tvg-logo="" tvg-shift="0" group-title="Norway", Nhk World Japan
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u101
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="" tvg-shift="0" group-title="Norway", Sky News
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u102
+#EXTINF:-1 tvg-id="CartoonNetwork.no" tvg-name="Cartoon Network" tvg-logo="" tvg-shift="0" group-title="Norway", Cartoon Network
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u103
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel Hd" tvg-logo="" tvg-shift="0" group-title="Norway", Disney Channel Hd
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u104
+#EXTINF:-1 tvg-id="DisneyJr.no" tvg-name="Disney Junior" tvg-logo="" tvg-shift="0" group-title="Norway", Disney Junior
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u105
+#EXTINF:-1 tvg-id="NickJr.no" tvg-name="Nick Jr" tvg-logo="" tvg-shift="0" group-title="Norway", Nick Jr
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u106
+#EXTINF:-1 tvg-id="Nickelodeon.no" tvg-name="Nickelodeon" tvg-logo="" tvg-shift="0" group-title="Norway", Nickelodeon
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u107
+#EXTINF:-1 tvg-id="Nicktoons.no" tvg-name="Nicktoons" tvg-logo="" tvg-shift="0" group-title="Norway", Nicktoons
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u108
+#EXTINF:-1 tvg-id="NRKSuper.no" tvg-name="Nrk Super" tvg-logo="" tvg-shift="0" group-title="Norway", Nrk Super
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u109

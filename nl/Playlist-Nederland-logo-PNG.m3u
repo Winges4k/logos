@@ -1,0 +1,269 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="Npo 1" tvg-logo="" tvg-shift="0" group-title="NL", Npo 1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u8
+#EXTINF:-1 tvg-id="NPO1Extra.nl" tvg-name="Npo 1 Extra" tvg-logo="" tvg-shift="0" group-title="NL", Npo 1 Extra
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u9
+#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="Npo 2" tvg-logo="" tvg-shift="0" group-title="NL", Npo 2
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u10
+#EXTINF:-1 tvg-id="NPO2Extra.nl" tvg-name="Npo 2 Extra" tvg-logo="" tvg-shift="0" group-title="NL", Npo 2 Extra
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u11
+#EXTINF:-1 tvg-id="RTL4.nl" tvg-name="Rtl 4" tvg-logo="" tvg-shift="0" group-title="NL", Rtl 4
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u12
+#EXTINF:-1 tvg-id="RTL5.nl" tvg-name="Rtl 5" tvg-logo="" tvg-shift="0" group-title="NL", Rtl 5
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u13
+#EXTINF:-1 tvg-id="SBS6.nl" tvg-name="Sbs6" tvg-logo="" tvg-shift="0" group-title="NL", Sbs6
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u14
+#EXTINF:-1 tvg-id="AT5.nl" tvg-name="At5" tvg-logo="" tvg-shift="0" group-title="NL", At5
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u15
+#EXTINF:-1 tvg-id="BVN.be" tvg-name="Bvn" tvg-logo="" tvg-shift="0" group-title="NL", Bvn
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u16
+#EXTINF:-1 tvg-id="NET5.nl" tvg-name="Net5" tvg-logo="" tvg-shift="0" group-title="NL", Net5
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u17
+#EXTINF:-1 tvg-id="OmropFryslan.nl" tvg-name="Omrop Fryslan" tvg-logo="" tvg-shift="0" group-title="NL", Omrop Fryslan
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u18
+#EXTINF:-1 tvg-id="ONS.nl" tvg-name="Ons" tvg-logo="" tvg-shift="0" group-title="NL", Ons
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u19
+#EXTINF:-1 tvg-id="RTL7.nl" tvg-name="Rtl 7" tvg-logo="" tvg-shift="0" group-title="NL", Rtl 7
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u20
+#EXTINF:-1 tvg-id="RTL8.nl" tvg-name="Rtl 8" tvg-logo="" tvg-shift="0" group-title="NL", Rtl 8
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u21
+#EXTINF:-1 tvg-id="RTLLounge.nl" tvg-name="Rtl Lounge" tvg-logo="" tvg-shift="0" group-title="NL", Rtl Lounge
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u22
+#EXTINF:-1 tvg-id="SBS9.nl" tvg-name="Sbs9" tvg-logo="" tvg-shift="0" group-title="NL", Sbs9
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u23
+#EXTINF:-1 tvg-id="fan-hd" tvg-name="Nh" tvg-logo="" tvg-shift="0" group-title="NL", Nh
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u24
+#EXTINF:-1 tvg-id="Flevoland.nl" tvg-name="Omroep Flevoland" tvg-logo="" tvg-shift="0" group-title="NL", Omroep Flevoland
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u25
+#EXTINF:-1 tvg-id="RTVDrenthe.nl" tvg-name="Rtv Drenthe" tvg-logo="" tvg-shift="0" group-title="NL", Rtv Drenthe
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u26
+#EXTINF:-1 tvg-id="RTVNoord.nl" tvg-name="Rtv Noord" tvg-logo="" tvg-shift="0" group-title="NL", Rtv Noord
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u27
+#EXTINF:-1 tvg-id="RTVOost.nl" tvg-name="Rtv Oost" tvg-logo="" tvg-shift="0" group-title="NL", Rtv Oost
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u28
+#EXTINF:-1 tvg-id="TVRijnmond.nl" tvg-name="Rtv Rijnmond" tvg-logo="" tvg-shift="0" group-title="NL", Rtv Rijnmond
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u29
+#EXTINF:-1 tvg-id="RTVUtrecht.nl" tvg-name="Rtv Utrecht" tvg-logo="" tvg-shift="0" group-title="NL", Rtv Utrecht
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u30
+#EXTINF:-1 tvg-id="OmroepGelderland.nl" tvg-name="Tv Gelderland" tvg-logo="" tvg-shift="0" group-title="NL", Tv Gelderland
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u31
+#EXTINF:-1 tvg-id="Canvas.be" tvg-name="Canvas" tvg-logo="" tvg-shift="0" group-title="NL", Canvas
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u32
+#EXTINF:-1 tvg-id="een.be" tvg-name="Een" tvg-logo="" tvg-shift="0" group-title="NL", Een
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u33
+#EXTINF:-1 tvg-id="Family7.nl" tvg-name="Family7" tvg-logo="" tvg-shift="0" group-title="NL", Family7
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u34
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="L1 Tv" tvg-logo="" tvg-shift="0" group-title="NL", L1 Tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u35
+#EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-name="Omroep Brabant" tvg-logo="" tvg-shift="0" group-title="NL", Omroep Brabant
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u36
+#EXTINF:-1 tvg-id="OmroepZeeland.nl" tvg-name="Omroep Zeeland" tvg-logo="" tvg-shift="0" group-title="NL", Omroep Zeeland
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u37
+#EXTINF:-1 tvg-id="OutTV.nl" tvg-name="Outtv" tvg-logo="" tvg-shift="0" group-title="NL", Outtv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u38
+#EXTINF:-1 tvg-id="WestTV.ro" tvg-name="Tv West" tvg-logo="" tvg-shift="0" group-title="NL", Tv West
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u39
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="Bbc Four Cbeebies" tvg-logo="" tvg-shift="0" group-title="NL", Bbc Four Cbeebies
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u40
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="Bbc One" tvg-logo="" tvg-shift="0" group-title="NL", Bbc One
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u41
+#EXTINF:-1 tvg-id="bbc" tvg-name="Bbc Three Cbbc" tvg-logo="" tvg-shift="0" group-title="NL", Bbc Three Cbbc
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u42
+#EXTINF:-1 tvg-id="bbc" tvg-name="Bbc Two" tvg-logo="" tvg-shift="0" group-title="NL", Bbc Two
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u43
+#EXTINF:-1 tvg-id="RTV7.nl" tvg-name="Rtv 7" tvg-logo="" tvg-shift="0" group-title="NL", Rtv 7
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u44
+#EXTINF:-1 tvg-id="ARD.svn" tvg-name="Ard" tvg-logo="" tvg-shift="0" group-title="NL", Ard
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u45
+#EXTINF:-1 tvg-id="BBCEntertainment.de" tvg-name="Bbc Entertainment" tvg-logo="" tvg-shift="0" group-title="NL", Bbc Entertainment
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u46
+#EXTINF:-1 tvg-id="BBCFirst.nl" tvg-name="Bbc First" tvg-logo="" tvg-shift="0" group-title="NL", Bbc First
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u47
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="Ndr" tvg-logo="" tvg-shift="0" group-title="NL", Ndr
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u48
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="Prosieben" tvg-logo="" tvg-shift="0" group-title="NL", Prosieben
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u49
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="Rtl" tvg-logo="" tvg-shift="0" group-title="NL", Rtl
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u50
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1" tvg-logo="" tvg-shift="0" group-title="NL", Sat 1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u51
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="Wdr" tvg-logo="" tvg-shift="0" group-title="NL", Wdr
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u52
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="Zdf" tvg-logo="" tvg-shift="0" group-title="NL", Zdf
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u53
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte" tvg-logo="" tvg-shift="0" group-title="NL", Arte
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u54
+#EXTINF:-1 tvg-id="myZen-tv" tvg-name="My Zen Tv" tvg-logo="" tvg-shift="0" group-title="NL", My Zen Tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u55
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="" tvg-shift="0" group-title="NL", Rai 1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u56
+#EXTINF:-1 tvg-id="tv5-Monde" tvg-name="Tv5 Monde" tvg-logo="" tvg-shift="0" group-title="NL", Tv5 Monde
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u57
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="Comedy Central" tvg-logo="" tvg-shift="0" group-title="NL", Comedy Central
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u58
+#EXTINF:-1 tvg-id="ComedyCentralExtra.bg" tvg-name="Comedy Central Extra" tvg-logo="" tvg-shift="0" group-title="NL", Comedy Central Extra
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u59
+#EXTINF:-1 tvg-id="Film1Action.nl" tvg-name="Film1 Action" tvg-logo="" tvg-shift="0" group-title="NL", Film1 Action
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u60
+#EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-name="Film1 Premiere" tvg-logo="" tvg-shift="0" group-title="NL", Film1 Premiere
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u61
+#EXTINF:-1 tvg-id="fox" tvg-name="Fox" tvg-logo="" tvg-shift="0" group-title="NL", Fox
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u62
+#EXTINF:-1 tvg-id="lrt-lituanica" tvg-name="Lrt Lituanica" tvg-logo="" tvg-shift="0" group-title="NL", Lrt Lituanica
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u63
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="" tvg-shift="0" group-title="NL", Rai 2
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u64
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="" tvg-shift="0" group-title="NL", Rai 3
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u65
+#EXTINF:-1 tvg-id="RTLCrime.nl" tvg-name="Rtl Crime" tvg-logo="" tvg-shift="0" group-title="NL", Rtl Crime
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u66
+#EXTINF:-1 tvg-id="Spike" tvg-name="Spike" tvg-logo="" tvg-shift="0" group-title="NL", Spike
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u67
+#EXTINF:-1 tvg-id="TVE.sp" tvg-name="Tve" tvg-logo="" tvg-shift="0" group-title="NL", Tve
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u68
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Tvp Polonia" tvg-logo="" tvg-shift="0" group-title="NL", Tvp Polonia
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u69
+#EXTINF:-1 tvg-id="Silver.fi" tvg-name="Visiemltv Lv" tvg-logo="" tvg-shift="0" group-title="NL", Visiemltv Lv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u70
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="" tvg-shift="0" group-title="NL", Eurosport 1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u71
+#EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film1 Drama" tvg-logo="" tvg-shift="0" group-title="NL", Film1 Drama
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u72
+#EXTINF:-1 tvg-id="Film1Family.nl" tvg-name="Film1 Family" tvg-logo="" tvg-shift="0" group-title="NL", Film1 Family
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u73
+#EXTINF:-1 tvg-id="ShortsTV.be" tvg-name="Shorts Tv" tvg-logo="" tvg-shift="0" group-title="NL", Shorts Tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u74
+#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-name="Ziggo Sport" tvg-logo="" tvg-shift="0" group-title="NL", Ziggo Sport
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u75
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport 2" tvg-logo="" tvg-shift="0" group-title="NL", Eurosport 2
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u76
+#EXTINF:-1 tvg-id="FoxSports.nl" tvg-name="Fox Sports 1" tvg-logo="" tvg-shift="0" group-title="NL", Fox Sports 1
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u77
+#EXTINF:-1 tvg-id="FoxSports.nl" tvg-name="Fox Sports 2" tvg-logo="" tvg-shift="0" group-title="NL", Fox Sports 2
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u78
+#EXTINF:-1 tvg-id="FoxSports.nl" tvg-name="Fox Sports 3" tvg-logo="" tvg-shift="0" group-title="NL", Fox Sports 3
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u79
+#EXTINF:-1 tvg-id="FoxSports.nl" tvg-name="Fox Sports 4" tvg-logo="" tvg-shift="0" group-title="NL", Fox Sports 4
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u80
+#EXTINF:-1 tvg-id="FoxSports.nl" tvg-name="Fox Sports 5" tvg-logo="" tvg-shift="0" group-title="NL", Fox Sports 5
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u81
+#EXTINF:-1 tvg-id="FoxSports.nl" tvg-name="Fox Sports 6" tvg-logo="" tvg-shift="0" group-title="NL", Fox Sports 6
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u82
+#EXTINF:-1 tvg-id="HorseCountry.nl" tvg-name="Horse Country Tv" tvg-logo="" tvg-shift="0" group-title="NL", Horse Country Tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u83
+#EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-name="Ziggo Sport Docu" tvg-logo="" tvg-shift="0" group-title="NL", Ziggo Sport Docu
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u84
+#EXTINF:-1 tvg-id="ZiggoSportGolf.nl" tvg-name="Ziggo Sport Golf" tvg-logo="" tvg-shift="0" group-title="NL", Ziggo Sport Golf
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u85
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing" tvg-logo="" tvg-shift="0" group-title="NL", Ziggo Sport Racing
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u86
+#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-name="Ziggo Sport Select" tvg-logo="" tvg-shift="0" group-title="NL", Ziggo Sport Select
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u87
+#EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis" tvg-logo="" tvg-shift="0" group-title="NL", Ziggo Sport Tennis
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u88
+#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-name="Ziggo Sport Voetbal" tvg-logo="" tvg-shift="0" group-title="NL", Ziggo Sport Voetbal
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u89
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="100 Nl Tv" tvg-logo="" tvg-shift="0" group-title="NL", 100 Nl Tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u90
+#EXTINF:-1 tvg-id="192tv.nl" tvg-name="192tv" tvg-logo="" tvg-shift="0" group-title="NL", 192tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u91
+#EXTINF:-1 tvg-id="" tvg-name="Dancetelevision" tvg-logo="" tvg-shift="0" group-title="NL", Dancetelevision
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u92
+#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="Extreme Sports Channel" tvg-logo="" tvg-shift="0" group-title="NL", Extreme Sports Channel
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u93
+#EXTINF:-1 tvg-id="MTV80s.eu" tvg-name="Mtv 80s" tvg-logo="" tvg-shift="0" group-title="NL", Mtv 80s
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u94
+#EXTINF:-1 tvg-id="mtv-live-hd" tvg-name="Mtv Live Hd" tvg-logo="" tvg-shift="0" group-title="NL", Mtv Live Hd
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u95
+#EXTINF:-1 tvg-id="mtv.nl" tvg-name="Mtv Nl" tvg-logo="" tvg-shift="0" group-title="NL", Mtv Nl
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u96
+#EXTINF:-1 tvg-id="SLAM!TV.nl" tvg-name="Slam Tv" tvg-logo="" tvg-shift="0" group-title="NL", Slam Tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u97
+#EXTINF:-1 tvg-id="LiteTV.nl" tvg-name="Stingray Lite Tv" tvg-logo="" tvg-shift="0" group-title="NL", Stingray Lite Tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u98
+#EXTINF:-1 tvg-id="TV538.nl" tvg-name="Tv538" tvg-logo="" tvg-shift="0" group-title="NL", Tv538
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u99
+#EXTINF:-1 tvg-id="XITE.nl" tvg-name="Xite" tvg-logo="" tvg-shift="0" group-title="NL", Xite
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u100
+#EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="" tvg-shift="0" group-title="NL", Mezzo
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u101
+#EXTINF:-1 tvg-id="stingray-classica" tvg-name="Stingray Classica" tvg-logo="" tvg-shift="0" group-title="NL", Stingray Classica
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u102
+#EXTINF:-1 tvg-id="StingrayDjazz.fr" tvg-name="Stingray Djazz" tvg-logo="" tvg-shift="0" group-title="NL", Stingray Djazz
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u103
+#EXTINF:-1 tvg-id="TVoranje.nl" tvg-name="Tv Oranje" tvg-logo="" tvg-shift="0" group-title="NL", Tv Oranje
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u104
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="" tvg-shift="0" group-title="NL", Animal Planet
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u105
+#EXTINF:-1 tvg-id="cbs-reality" tvg-name="Cbs Reality" tvg-logo="" tvg-shift="0" group-title="NL", Cbs Reality
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u106
+#EXTINF:-1 tvg-id="RTLCrime.nl" tvg-name="Crime Investigation" tvg-logo="" tvg-shift="0" group-title="NL", Crime Investigation
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u107
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="Discovery" tvg-logo="" tvg-shift="0" group-title="NL", Discovery
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u108
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-logo="" tvg-shift="0" group-title="NL", Discovery Science
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u109
+#EXTINF:-1 tvg-id="InvestigationDiscovery.cz" tvg-name="Investigation Discovery" tvg-logo="" tvg-shift="0" group-title="NL", Investigation Discovery
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u110
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="" tvg-shift="0" group-title="NL", Nat Geo Wild
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u111
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic Channel" tvg-logo="" tvg-shift="0" group-title="NL", National Geographic Channel
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u112
+#EXTINF:-1 tvg-id="tlc" tvg-name="Tlc" tvg-logo="" tvg-shift="0" group-title="NL", Tlc
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u113
+#EXTINF:-1 tvg-id="24kitchen.nl" tvg-name="24kitchen" tvg-logo="" tvg-shift="0" group-title="NL", 24kitchen
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u114
+#EXTINF:-1 tvg-id="cnn" tvg-name="Cnn" tvg-logo="" tvg-shift="0" group-title="NL", Cnn
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u115
+#EXTINF:-1 tvg-id="e-tv" tvg-name="E" tvg-logo="" tvg-shift="0" group-title="NL", E
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u116
+#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion Tv" tvg-logo="" tvg-shift="0" group-title="NL", Fashion Tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u117
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="" tvg-shift="0" group-title="NL", History
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u118
+#EXTINF:-1 tvg-id="love-nature-4K" tvg-name="Love Nature" tvg-logo="" tvg-shift="0" group-title="NL", Love Nature
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u119
+#EXTINF:-1 tvg-id="NPOnieuws.nl" tvg-name="Npo Nieuws" tvg-logo="" tvg-shift="0" group-title="NL", Npo Nieuws
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u120
+#EXTINF:-1 tvg-id="NPOPolitiek101.nl" tvg-name="Npo Politiek" tvg-logo="" tvg-shift="0" group-title="NL", Npo Politiek
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u121
+#EXTINF:-1 tvg-id="RTLZ.nl" tvg-name="Rtl Z" tvg-logo="" tvg-shift="0" group-title="NL", Rtl Z
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u122
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Aljazeera English" tvg-logo="" tvg-shift="0" group-title="NL", Aljazeera English
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u123
+#EXTINF:-1 tvg-id="bbc-world-news" tvg-name="Bbc World News" tvg-logo="" tvg-shift="0" group-title="NL", Bbc World News
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u124
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="Cgtn" tvg-logo="" tvg-shift="0" group-title="NL", Cgtn
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u125
+#EXTINF:-1 tvg-id="cnbc-europe" tvg-name="Cnbc Europe" tvg-logo="" tvg-shift="0" group-title="NL", Cnbc Europe
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u126
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="" tvg-shift="0" group-title="NL", Euronews
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u127
+#EXTINF:-1 tvg-id="NPO3.nl" tvg-name="Npo 3 Zapp" tvg-logo="" tvg-shift="0" group-title="NL", Npo 3 Zapp
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u128
+#EXTINF:-1 tvg-id="NPOZappelinExtra.nl" tvg-name="Npo Zappelin Extra" tvg-logo="" tvg-shift="0" group-title="NL", Npo Zappelin Extra
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u129
+#EXTINF:-1 tvg-id="rt" tvg-name="Rt" tvg-logo="" tvg-shift="0" group-title="NL", Rt
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u130
+#EXTINF:-1 tvg-id="baby-tv" tvg-name="Baby Tv" tvg-logo="" tvg-shift="0" group-title="NL", Baby Tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u131
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="" tvg-shift="0" group-title="NL", Boomerang
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u132
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="" tvg-shift="0" group-title="NL", Cartoon Network
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u133
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-logo="" tvg-shift="0" group-title="NL", Disney Channel
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u134
+#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="Ketnet" tvg-logo="" tvg-shift="0" group-title="NL", Ketnet
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u135
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr" tvg-logo="" tvg-shift="0" group-title="NL", Nick Jr
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u136
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="" tvg-shift="0" group-title="NL", Nickelodeon
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u137
+#EXTINF:-1 tvg-id="nicktoons" tvg-name="Nicktoons" tvg-logo="" tvg-shift="0" group-title="NL", Nicktoons
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u138
+#EXTINF:-1 tvg-id="PebbleTV.nl" tvg-name="Pebble Tv" tvg-logo="" tvg-shift="0" group-title="NL", Pebble Tv
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u139
+#EXTINF:-1 tvg-id="RTLTelekids.nl" tvg-name="Rtl Telekids" tvg-logo="" tvg-shift="0" group-title="NL", Rtl Telekids
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u140
+#EXTINF:-1 tvg-id="VeronicaDisneyXD.nl" tvg-name="Veronica Disney Xd" tvg-logo="" tvg-shift="0" group-title="NL", Veronica Disney Xd
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u141

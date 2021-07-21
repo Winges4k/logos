@@ -1,0 +1,445 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="Tvp 1" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp 1
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="Tvp 2" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp 2
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u9
+#EXTINF:-1 tvg-id="Metro.pl" tvg-name="Metro" tvg-logo="" tvg-shift="0" group-title="PL", PL | Metro
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u10
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u11
+#EXTINF:-1 tvg-id="TVPuls2.pl" tvg-name="Puls 2" tvg-logo="" tvg-shift="0" group-title="PL", PL | Puls 2
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u12
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat" tvg-logo="" tvg-shift="0" group-title="PL", PL | Super Polsat
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u13
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="Tv 4" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tv 4
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u14
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="Tv 6" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tv 6
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u15
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="Tv Puls" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tv Puls
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u16
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="Tvn" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvn
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u17
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="Tvn 7" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvn 7
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u18
+#EXTINF:-1 tvg-id="WP.pl" tvg-name="Wp" tvg-logo="" tvg-shift="0" group-title="PL", PL | Wp
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u19
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Fokus Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u20
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat 1" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat 1
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u21
+#EXTINF:-1 tvg-id="StopklatkaTV.pl" tvg-name="Stopklatka Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Stopklatka Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u22
+#EXTINF:-1 tvg-id="TTV.PL" tvg-name="Ttv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Ttv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u23
+#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="Tvp Hd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp Hd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u24
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="Tvp Kultura" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp Kultura
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u25
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="Tvp Rozrywka" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp Rozrywka
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u26
+#EXTINF:-1 tvg-id="plus-od-ua" tvg-name="Domo Plus" tvg-logo="" tvg-shift="0" group-title="PL", PL | Domo Plus
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u27
+#EXTINF:-1 tvg-id="KUCHNIA.TV.pl" tvg-name="Kuchnia Plus" tvg-logo="" tvg-shift="0" group-title="PL", PL | Kuchnia Plus
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u28
+#EXTINF:-1 tvg-id="polsat2-pl" tvg-name="Polsat 2" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat 2
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u29
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Cafe" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Cafe
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u30
+#EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="Polsat Rodzina" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Rodzina
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u31
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="Tvn Style" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvn Style
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u32
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="Tvn Turbo" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvn Turbo
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u33
+#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="Zoom Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Zoom Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u34
+#EXTINF:-1 tvg-id="food-Network" tvg-name="Food Network" tvg-logo="" tvg-shift="0" group-title="PL", PL | Food Network
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u35
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="Hgtv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Hgtv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u36
+#EXTINF:-1 tvg-id="Lifetime.pl" tvg-name="Lifetime" tvg-logo="" tvg-shift="0" group-title="PL", PL | Lifetime
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u37
+#EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="Nowa Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Nowa Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u38
+#EXTINF:-1 tvg-id="NTL.pl" tvg-name="Ntl Radomsko" tvg-logo="" tvg-shift="0" group-title="PL", PL | Ntl Radomsko
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u39
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Polonia 1" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polonia 1
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u40
+#EXTINF:-1 tvg-id="Tele5.pl" tvg-name="Tele5" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tele5
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u41
+#EXTINF:-1 tvg-id="TVrepublika.pl" tvg-name="Tv Republika" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tv Republika
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u42
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Tvp Polonia" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp Polonia
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u43
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="Tvs" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvs
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u44
+#EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="Wpolsce Pl" tvg-logo="" tvg-shift="0" group-title="PL", PL | Wpolsce Pl
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u45
+#EXTINF:-1 tvg-id="TVtrwam.pl" tvg-name="Tv Trwam" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tv Trwam
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u46
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="Tvp3 Bialystok" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Bialystok
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u47
+#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl" tvg-name="Tvp3 Bydgoszcz" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Bydgoszcz
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u48
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="Tvp3 Gdansk" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Gdansk
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u49
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="Tvp3 Gorzow" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Gorzow
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u50
+#EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-name="Tvp3 Katowice" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Katowice
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u51
+#EXTINF:-1 tvg-id="TVP3Kielce.pl" tvg-name="Tvp3 Kielce" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Kielce
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u52
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="Tvp3 Krakow" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Krakow
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u53
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="Tvp3 Lodz" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Lodz
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u54
+#EXTINF:-1 tvg-id="TVP3Lublin.pl" tvg-name="Tvp3 Lublin" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Lublin
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u55
+#EXTINF:-1 tvg-id="TVP3Olsztyn.pl" tvg-name="Tvp3 Olsztyn" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Olsztyn
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u56
+#EXTINF:-1 tvg-id="TVP3Opole.pl" tvg-name="Tvp3 Opole" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Opole
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u57
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="Tvp3 Poznan" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Poznan
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u58
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="Tvp3 Rzeszow" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Rzeszow
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u59
+#EXTINF:-1 tvg-id="TVP3Szczecin.pl" tvg-name="Tvp3 Szczecin" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Szczecin
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u60
+#EXTINF:-1 tvg-id="tvp3warszawa-pl" tvg-name="Tvp3 Warszawa" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Warszawa
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u61
+#EXTINF:-1 tvg-id="ARD.svn" tvg-name="Ard" tvg-logo="" tvg-shift="0" group-title="PL", PL | Ard
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u62
+#EXTINF:-1 tvg-id="BelsatTV.pl" tvg-name="Belsat" tvg-logo="" tvg-shift="0" group-title="PL", PL | Belsat
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u63
+#EXTINF:-1 tvg-id="iTVN.pl" tvg-name="Itvn" tvg-logo="" tvg-shift="0" group-title="PL", PL | Itvn
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u64
+#EXTINF:-1 tvg-id="iTVN.pl" tvg-name="Itvn Extra" tvg-logo="" tvg-shift="0" group-title="PL", PL | Itvn Extra
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u65
+#EXTINF:-1 tvg-id="lrt-lituanica" tvg-name="Lrt Lituanica" tvg-logo="" tvg-shift="0" group-title="PL", PL | Lrt Lituanica
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u66
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="Tvp3 Wroclaw" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp3 Wroclaw
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u67
+#EXTINF:-1 tvg-id="Silver.fi" tvg-name="Visiemltv Lv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Visiemltv Lv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u68
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="Zdf" tvg-logo="" tvg-shift="0" group-title="PL", PL | Zdf
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u69
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="" tvg-shift="0" group-title="PL", PL | 3sat
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u70
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte" tvg-logo="" tvg-shift="0" group-title="PL", PL | Arte
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u71
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax" tvg-logo="" tvg-shift="0" group-title="PL", PL | Dmax
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u72
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins" tvg-logo="" tvg-shift="0" group-title="PL", PL | Kabel Eins
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u73
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="Prosieben" tvg-logo="" tvg-shift="0" group-title="PL", PL | Prosieben
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u74
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="Rtl" tvg-logo="" tvg-shift="0" group-title="PL", PL | Rtl
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u75
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="Rtl Ii" tvg-logo="" tvg-shift="0" group-title="PL", PL | Rtl Ii
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u76
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1" tvg-logo="" tvg-shift="0" group-title="PL", PL | Sat 1
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u77
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="Sixx" tvg-logo="" tvg-shift="0" group-title="PL", PL | Sixx
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u78
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Superrtl" tvg-logo="" tvg-shift="0" group-title="PL", PL | Superrtl
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u79
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tele 5
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u80
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="Vox" tvg-logo="" tvg-shift="0" group-title="PL", PL | Vox
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u81
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="Zdfneo" tvg-logo="" tvg-shift="0" group-title="PL", PL | Zdfneo
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u82
+#EXTINF:-1 tvg-id="AleKino.pl" tvg-name="Ale Kino Plus" tvg-logo="" tvg-shift="0" group-title="PL", PL | Ale Kino Plus
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u83
+#EXTINF:-1 tvg-id="Canalplus4K.pl" tvg-name="Canal Plus" tvg-logo="" tvg-shift="0" group-title="PL", PL | Canal Plus
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u84
+#EXTINF:-1 tvg-id="Canalplus4K.pl" tvg-name="Canal Plus 1" tvg-logo="" tvg-shift="0" group-title="PL", PL | Canal Plus 1
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u85
+#EXTINF:-1 tvg-id="EPICDramaHD.pl" tvg-name="Epic Drama" tvg-logo="" tvg-shift="0" group-title="PL", PL | Epic Drama
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u86
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox" tvg-logo="" tvg-shift="0" group-title="PL", PL | Fox
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u87
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="Fox Comedy" tvg-logo="" tvg-shift="0" group-title="PL", PL | Fox Comedy
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u88
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="Nitro" tvg-logo="" tvg-shift="0" group-title="PL", PL | Nitro
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u89
+#EXTINF:-1 tvg-id="Paramount.pl" tvg-name="Paramount Channel" tvg-logo="" tvg-shift="0" group-title="PL", PL | Paramount Channel
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u90
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Film
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u91
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="Prosieben Maxx" tvg-logo="" tvg-shift="0" group-title="PL", PL | Prosieben Maxx
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u92
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="Rtlplus" tvg-logo="" tvg-shift="0" group-title="PL", PL | Rtlplus
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u93
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat 1 Gold" tvg-logo="" tvg-shift="0" group-title="PL", PL | Sat 1 Gold
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u94
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="Tvn Fabula" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvn Fabula
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u95
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="Tvp Seriale" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp Seriale
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u96
+#EXTINF:-1 tvg-id="CanalplusFamily.pl" tvg-name="Canal Plus Family" tvg-logo="" tvg-shift="0" group-title="PL", PL | Canal Plus Family
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u97
+#EXTINF:-1 tvg-id="CanalplusFilm.pl" tvg-name="Canal Plus Film" tvg-logo="" tvg-shift="0" group-title="PL", PL | Canal Plus Film
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u98
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="Canal Plus Seriale" tvg-logo="" tvg-shift="0" group-title="PL", PL | Canal Plus Seriale
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u99
+#EXTINF:-1 tvg-id="CinemaxHD.pl" tvg-name="Cinemax" tvg-logo="" tvg-shift="0" group-title="PL", PL | Cinemax
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u100
+#EXTINF:-1 tvg-id="CinemaxHD.pl" tvg-name="Cinemax2" tvg-logo="" tvg-shift="0" group-title="PL", PL | Cinemax2
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u101
+#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="Filmbox Family" tvg-logo="" tvg-shift="0" group-title="PL", PL | Filmbox Family
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u102
+#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="Filmbox Premium Hd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Filmbox Premium Hd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u103
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="Hbo" tvg-logo="" tvg-shift="0" group-title="PL", PL | Hbo
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u104
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="Hbo2" tvg-logo="" tvg-shift="0" group-title="PL", PL | Hbo2
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u105
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="Hbo3" tvg-logo="" tvg-shift="0" group-title="PL", PL | Hbo3
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u106
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska" tvg-logo="" tvg-shift="0" group-title="PL", PL | Kino Polska
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u107
+#EXTINF:-1 tvg-id="KinoTV.pl" tvg-name="Kinotv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Kinotv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u108
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="Axn" tvg-logo="" tvg-shift="0" group-title="PL", PL | Axn
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u109
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="Axn Black" tvg-logo="" tvg-shift="0" group-title="PL", PL | Axn Black
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u110
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="Axn Spin" tvg-logo="" tvg-shift="0" group-title="PL", PL | Axn Spin
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u111
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="Axn White" tvg-logo="" tvg-shift="0" group-title="PL", PL | Axn White
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u112
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central" tvg-logo="" tvg-shift="0" group-title="PL", PL | Comedy Central
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u113
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central Family" tvg-logo="" tvg-shift="0" group-title="PL", PL | Comedy Central Family
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u114
+#EXTINF:-1 tvg-id="FilmboxAction.pl" tvg-name="Filmbox Action" tvg-logo="" tvg-shift="0" group-title="PL", PL | Filmbox Action
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u115
+#EXTINF:-1 tvg-id="FilmboxExtra.pl" tvg-name="Filmbox Arthouse" tvg-logo="" tvg-shift="0" group-title="PL", PL | Filmbox Arthouse
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u116
+#EXTINF:-1 tvg-id="FilmboxAction.pl" tvg-name="Filmbox Extra Hd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Filmbox Extra Hd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u117
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="13 Ulica" tvg-logo="" tvg-shift="0" group-title="PL", PL | 13 Ulica
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u118
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="Amc" tvg-logo="" tvg-shift="0" group-title="PL", PL | Amc
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u119
+#EXTINF:-1 tvg-id="BBCFirst.nl" tvg-name="Bbc First" tvg-logo="" tvg-shift="0" group-title="PL", PL | Bbc First
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u120
+#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="Cbs Europa" tvg-logo="" tvg-shift="0" group-title="PL", PL | Cbs Europa
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u121
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="Eurosport 1" tvg-logo="" tvg-shift="0" group-title="PL", PL | Eurosport 1
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u122
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Sport News
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u123
+#EXTINF:-1 tvg-id="SciFi.pl" tvg-name="Sci Fi" tvg-logo="" tvg-shift="0" group-title="PL", PL | Sci Fi
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u124
+#EXTINF:-1 tvg-id="SundanceChannel.pl" tvg-name="Sundance Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Sundance Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u125
+#EXTINF:-1 tvg-id="tnt" tvg-name="Tnt" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tnt
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u126
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="Tvp Sport" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp Sport
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u127
+#EXTINF:-1 tvg-id="canal+sport2hd-pl" tvg-name="Canal Plus Sport" tvg-logo="" tvg-shift="0" group-title="PL", PL | Canal Plus Sport
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u128
+#EXTINF:-1 tvg-id="CanalplusSport2.pl" tvg-name="Canal Plus Sport 2" tvg-logo="" tvg-shift="0" group-title="PL", PL | Canal Plus Sport 2
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u129
+#EXTINF:-1 tvg-id="elevensports2-pl" tvg-name="Eleven Sports 1" tvg-logo="" tvg-shift="0" group-title="PL", PL | Eleven Sports 1
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u130
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="Eurosport 2" tvg-logo="" tvg-shift="0" group-title="PL", PL | Eurosport 2
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u131
+#EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="Polsat Games" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Games
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u132
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Sport
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u133
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Sport Extra
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u134
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News 2" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Sport News 2
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u135
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="Sportklub" tvg-logo="" tvg-shift="0" group-title="PL", PL | Sportklub
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u136
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sports 2" tvg-logo="" tvg-shift="0" group-title="PL", PL | Eleven Sports 2
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u137
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3" tvg-logo="" tvg-shift="0" group-title="PL", PL | Eleven Sports 3
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u138
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4" tvg-logo="" tvg-shift="0" group-title="PL", PL | Eleven Sports 4
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u139
+#EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="" tvg-shift="0" group-title="PL", PL | Extreme Sports
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u140
+#EXTINF:-1 tvg-id="FightSports.es" tvg-name="Fight Sports" tvg-logo="" tvg-shift="0" group-title="PL", PL | Fight Sports
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u141
+#EXTINF:-1 tvg-id="fightBox-hd" tvg-name="Fightbox Hd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Fightbox Hd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u142
+#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="Fightklub Hd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Fightklub Hd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u143
+#EXTINF:-1 tvg-id="GolfChannel.cz" tvg-name="Golf Channel Hd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Golf Channel Hd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u144
+#EXTINF:-1 tvg-id="nsport.pl" tvg-name="Nsport Plus" tvg-logo="" tvg-shift="0" group-title="PL", PL | Nsport Plus
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u145
+#EXTINF:-1 tvg-id="Polsat Sport Fight HD" tvg-name="Polsat Sport Fight Hd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Sport Fight Hd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u146
+#EXTINF:-1 tvg-id="ClubMTV.eu" tvg-name="Club Mtv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Club Mtv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u147
+#EXTINF:-1 tvg-id="iConcerts.svn" tvg-name="Iconcerts" tvg-logo="" tvg-shift="0" group-title="PL", PL | Iconcerts
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u148
+#EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="" tvg-shift="0" group-title="PL", PL | Mezzo
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u149
+#EXTINF:-1 tvg-id="MTV80s.eu" tvg-name="Mtv 80s" tvg-logo="" tvg-shift="0" group-title="PL", PL | Mtv 80s
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u150
+#EXTINF:-1 tvg-id="MTV90s.eu" tvg-name="Mtv 90s" tvg-logo="" tvg-shift="0" group-title="PL", PL | Mtv 90s
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u151
+#EXTINF:-1 tvg-id="mtv-Hits" tvg-name="Mtv Hits" tvg-logo="" tvg-shift="0" group-title="PL", PL | Mtv Hits
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u152
+#EXTINF:-1 tvg-id="mtv-live-hd" tvg-name="Mtv Live Hd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Mtv Live Hd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u153
+#EXTINF:-1 tvg-id="MTVMusicPolska.pl" tvg-name="Mtv Polska" tvg-logo="" tvg-shift="0" group-title="PL", PL | Mtv Polska
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u154
+#EXTINF:-1 tvg-id="Polsat-music-HD" tvg-name="Polsat Music Hd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Music Hd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u155
+#EXTINF:-1 tvg-id="sport1-ua" tvg-name="Sport1" tvg-logo="" tvg-shift="0" group-title="PL", PL | Sport1
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u156
+#EXTINF:-1 tvg-id="vh1-european" tvg-name="Vh1 Europe" tvg-logo="" tvg-shift="0" group-title="PL", PL | Vh1 Europe
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u157
+#EXTINF:-1 tvg-id="4fun-dance" tvg-name="4fun Dance" tvg-logo="" tvg-shift="0" group-title="PL", PL | 4fun Dance
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u158
+#EXTINF:-1 tvg-id="4fun-gold-hits" tvg-name="4fun Gold Hits" tvg-logo="" tvg-shift="0" group-title="PL", PL | 4fun Gold Hits
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u159
+#EXTINF:-1 tvg-id="4fun-tv" tvg-name="4fun Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | 4fun Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u160
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music" tvg-logo="" tvg-shift="0" group-title="PL", PL | Disco Polo Music
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u161
+#EXTINF:-1 tvg-id="eska-tv-hd" tvg-name="Eska Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Eska Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u162
+#EXTINF:-1 tvg-id="eska-tv-extra" tvg-name="Eska Tv Extra" tvg-logo="" tvg-shift="0" group-title="PL", PL | Eska Tv Extra
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u163
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Polo Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polo Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u164
+#EXTINF:-1 tvg-id="vox-music-tv" tvg-name="Vox Music Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Vox Music Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u165
+#EXTINF:-1 tvg-id="CanalplusDiscovery.pl" tvg-name="Canal Plus Discovery" tvg-logo="" tvg-shift="0" group-title="PL", PL | Canal Plus Discovery
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u166
+#EXTINF:-1 tvg-id="discovery-channel-ce" tvg-name="Discovery Channel" tvg-logo="" tvg-shift="0" group-title="PL", PL | Discovery Channel
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u167
+#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="Discovery Life" tvg-logo="" tvg-shift="0" group-title="PL", PL | Discovery Life
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u168
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-logo="" tvg-shift="0" group-title="PL", PL | Discovery Science
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u169
+#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="Nuta Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Nuta Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u170
+#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Doku
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u171
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Play
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u172
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="Power Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Power Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u173
+#EXTINF:-1 tvg-id="stars-tv-hd" tvg-name="Stars Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Stars Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u174
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="Tvp Historia" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp Historia
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u175
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="" tvg-shift="0" group-title="PL", PL | Animal Planet
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u176
+#EXTINF:-1 tvg-id="cbs-reality" tvg-name="Cbs Reality" tvg-logo="" tvg-shift="0" group-title="PL", PL | Cbs Reality
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u177
+#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="Discovery Historia" tvg-logo="" tvg-shift="0" group-title="PL", PL | Discovery Historia
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u178
+#EXTINF:-1 tvg-id="ID.nl" tvg-name="Id" tvg-logo="" tvg-shift="0" group-title="PL", PL | Id
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u179
+#EXTINF:-1 tvg-id="NatGeoPeople.de" tvg-name="Nat Geo People" tvg-logo="" tvg-shift="0" group-title="PL", PL | Nat Geo People
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u180
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="" tvg-shift="0" group-title="PL", PL | Nat Geo Wild
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u181
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="" tvg-shift="0" group-title="PL", PL | National Geographic
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u182
+#EXTINF:-1 tvg-id="tlc" tvg-name="Tlc" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tlc
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u183
+#EXTINF:-1 tvg-id="BBCEarth.dk" tvg-name="Bbc Earth" tvg-logo="" tvg-shift="0" group-title="PL", PL | Bbc Earth
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u184
+#EXTINF:-1 tvg-id="history-hd" tvg-name="History" tvg-logo="" tvg-shift="0" group-title="PL", PL | History
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u185
+#EXTINF:-1 tvg-id="history-hd" tvg-name="History 2" tvg-logo="" tvg-shift="0" group-title="PL", PL | History 2
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u186
+#EXTINF:-1 tvg-id="PLANETE.fr" tvg-name="Planete Plus" tvg-logo="" tvg-shift="0" group-title="PL", PL | Planete Plus
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u187
+#EXTINF:-1 tvg-id="viasat-explore" tvg-name="Polsat Viasat Explore" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Viasat Explore
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u188
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Polsat Viasat History" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Viasat History
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u189
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Polsat Viasat Nature" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat Viasat Nature
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u190
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="" tvg-shift="0" group-title="PL", PL | Travel Channel
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u191
+#EXTINF:-1 tvg-id="Adventure.pl" tvg-name="Adventure Hd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Adventure Hd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u192
+#EXTINF:-1 tvg-id="BBCBrit.dk" tvg-name="Bbc Brit" tvg-logo="" tvg-shift="0" group-title="PL", PL | Bbc Brit
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u193
+#EXTINF:-1 tvg-id="BBCLifestyle.dk" tvg-name="Bbc Lifestyle" tvg-logo="" tvg-shift="0" group-title="PL", PL | Bbc Lifestyle
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u194
+#EXTINF:-1 tvg-id="CrimeInvestigation.bg" tvg-name="Crime Plus Investigation Polsat" tvg-logo="" tvg-shift="0" group-title="PL", PL | Crime Plus Investigation Polsat
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u195
+#EXTINF:-1 tvg-id="dtx" tvg-name="Dtx" tvg-logo="" tvg-shift="0" group-title="PL", PL | Dtx
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u196
+#EXTINF:-1 tvg-id="polsat-news-pl" tvg-name="Polsat News" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat News
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u197
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2" tvg-logo="" tvg-shift="0" group-title="PL", PL | Polsat News 2
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u198
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="Tvn24" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvn24
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u199
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="Tvn24 Bis" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvn24 Bis
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u200
+#EXTINF:-1 tvg-id="tvp-info" tvg-name="Tvp Info" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp Info
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u201
+#EXTINF:-1 tvg-id="bbc-world-news" tvg-name="Bbc World News" tvg-logo="" tvg-shift="0" group-title="PL", PL | Bbc World News
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u202
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg Television" tvg-logo="" tvg-shift="0" group-title="PL", PL | Bloomberg Television
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u203
+#EXTINF:-1 tvg-id="cnbc-europe" tvg-name="Cnbc Europe" tvg-logo="" tvg-shift="0" group-title="PL", PL | Cnbc Europe
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u204
+#EXTINF:-1 tvg-id="CNNInternational.svn" tvg-name="Cnn International" tvg-logo="" tvg-shift="0" group-title="PL", PL | Cnn International
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u205
+#EXTINF:-1 tvg-id="deutsche-welle" tvg-name="Deutsche Welle" tvg-logo="" tvg-shift="0" group-title="PL", PL | Deutsche Welle
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u206
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="" tvg-shift="0" group-title="PL", PL | Euronews
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u207
+#EXTINF:-1 tvg-id="france24-en" tvg-name="France 24" tvg-logo="" tvg-shift="0" group-title="PL", PL | France 24
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u208
+#EXTINF:-1 tvg-id="Superstacja.pl" tvg-name="Superstacja" tvg-logo="" tvg-shift="0" group-title="PL", PL | Superstacja
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u209
+#EXTINF:-1 tvg-id="al-jazeera-int" tvg-name="Al Jazeera" tvg-logo="" tvg-shift="0" group-title="PL", PL | Al Jazeera
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u210
+#EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Arirang Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u211
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="" tvg-shift="0" group-title="PL", PL | Boomerang
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u212
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="" tvg-shift="0" group-title="PL", PL | Cartoon Network
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u213
+#EXTINF:-1 tvg-id="TimesNow.uk" tvg-name="Current Time" tvg-logo="" tvg-shift="0" group-title="PL", PL | Current Time
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u214
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel Hd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Disney Channel Hd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u215
+#EXTINF:-1 tvg-id="nhk-world" tvg-name="Nhk World Japan" tvg-logo="" tvg-shift="0" group-title="PL", PL | Nhk World Japan
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u216
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="" tvg-shift="0" group-title="PL", PL | Sky News
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u217
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="Tvp Abc" tvg-logo="" tvg-shift="0" group-title="PL", PL | Tvp Abc
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u218
+#EXTINF:-1 tvg-id="BabyFirstTV.pl" tvg-name="Baby First Tv" tvg-logo="" tvg-shift="0" group-title="PL", PL | Baby First Tv
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u219
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior" tvg-logo="" tvg-shift="0" group-title="PL", PL | Disney Junior
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u220
+#EXTINF:-1 tvg-id="disney-Xd" tvg-name="Disney Xd" tvg-logo="" tvg-shift="0" group-title="PL", PL | Disney Xd
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u221
+#EXTINF:-1 tvg-id="MINIMINI.pl" tvg-name="Minimini Plus" tvg-logo="" tvg-shift="0" group-title="PL", PL | Minimini Plus
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u222
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr" tvg-logo="" tvg-shift="0" group-title="PL", PL | Nick Jr
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u223
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="" tvg-shift="0" group-title="PL", PL | Nickelodeon
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u224
+#EXTINF:-1 tvg-id="nicktoons" tvg-name="Nicktoons" tvg-logo="" tvg-shift="0" group-title="PL", PL | Nicktoons
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u225
+#EXTINF:-1 tvg-id="Teletoon.pl" tvg-name="Teletoon Plus" tvg-logo="" tvg-shift="0" group-title="PL", PL | Teletoon Plus
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u226
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="Bbc Cbeebies" tvg-logo="" tvg-shift="0" group-title="PL", PL | Bbc Cbeebies
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u227
+#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="Jimjam Polsat" tvg-logo="" tvg-shift="0" group-title="PL", PL | Jimjam Polsat
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u228
+#EXTINF:-1 tvg-id="TopKidsJr.pl" tvg-name="Top Kids" tvg-logo="" tvg-shift="0" group-title="PL", PL | Top Kids
+http://185.93.1.38/FRCH_TVA_QUEBEC_CA/index.m3u229
